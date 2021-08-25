@@ -1,10 +1,5 @@
 # File Converter V1
 
-![GitHub repo size](https://img.shields.io/github/repo-size/BalakaDEV/File-Converter-V1?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/BalakaDEV/File-Converter-V1?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/BalakaDEV/File-Converter-V1?style=for-the-badge)
-
-
 > Conversor de arquivos sem o uso de sites ou qualquer outra plataforma, visando a facilidade a proteção dos mesmos
 
 ### Ajustes e melhorias
