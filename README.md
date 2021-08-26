@@ -8,7 +8,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 
 - [ ] Criação de uma interface gráfica
 - [ ] Possibilidade de alterar o **nome** de varios arquivos ao mesmo tempo
-- [ ] Possilidade de alterar o **formato** de varios arquivos ao mesmo tepo
+- [ ] Possilidade de alterar o **formato** de varios arquivos ao mesmo tempo
 
 ## 💻 Pré-requisitos
 
